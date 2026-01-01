@@ -1,4 +1,4 @@
-# CSE4095_Project
+# Music Classifier
 
 * All data from the GTZAN dataset is uploaded under the data folder.
 * New spectrograms were created using the dataOrganize.ipynb file.
